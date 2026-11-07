@@ -48,3 +48,9 @@ The updated Swing application adds a **Smart Innovations** section without creat
 - More uniform button sizing and table row height.
 - Cleaner filter-row spacing and responsive search area.
 - No database schema changes are required for these innovations.
+
+## Author & Contributions
+- **Developer:** [abhi400-arch](https://github.com/abhi400-arch)
+- **Project:** Vehicle Service Management System (Java Swing + MySQL ADBMS Project)
+- **Repository:** [vehicle_service_management_system](https://github.com/abhi400-arch/vehicle_service_management_system)
+
